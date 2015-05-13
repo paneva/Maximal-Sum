@@ -1,0 +1,6 @@
+C:\Users\Paisivu\Documents\Visual Studio 2013\Projects\Homework Multidimensional Arrays\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe.config
+C:\Users\Paisivu\Documents\Visual Studio 2013\Projects\Homework Multidimensional Arrays\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.exe
+C:\Users\Paisivu\Documents\Visual Studio 2013\Projects\Homework Multidimensional Arrays\Problem 2. Maximal Sum\bin\Debug\Problem_2.Maximal_Sum.pdb
+C:\Users\Paisivu\Documents\Visual Studio 2013\Projects\Homework Multidimensional Arrays\Problem 2. Maximal Sum\obj\Debug\Problem 2. Maximal Sum.csprojResolveAssemblyReference.cache
+C:\Users\Paisivu\Documents\Visual Studio 2013\Projects\Homework Multidimensional Arrays\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.exe
+C:\Users\Paisivu\Documents\Visual Studio 2013\Projects\Homework Multidimensional Arrays\Problem 2. Maximal Sum\obj\Debug\Problem_2.Maximal_Sum.pdb
