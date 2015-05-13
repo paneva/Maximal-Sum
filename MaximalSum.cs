@@ -29,15 +29,15 @@ namespace Problem_2.Maximal_Sum
                 }
                 Console.WriteLine();
             }
-            ////print matrix
-            //for (int i = 0; i < rows; i++)
-            //{
-            //    for (int j = 0; j <cols; j++)
-            //    {
-            //        Console.Write(matrix[i,j]+"  ");
-            //    }
-            //    Console.WriteLine();
-            //}
+            //print matrix
+            for (int i = 0; i < rows; i++)
+            {
+                for (int j = 0; j <cols; j++)
+                {
+                    Console.Write(matrix[i,j]+"  ");
+                }
+                Console.WriteLine();
+            }
 
 
             // Find the maximal sum platform of size 3 x 3
